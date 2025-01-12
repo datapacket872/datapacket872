@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @datapacket872
-- 👀 I’m interested in data science & python programming
-- 🌱 I’m currently learning data science and programming
-- 💞️ I’m looking to collaborate on data science and python projects
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development 
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me? fouadbabasiekamara@gmail.com
 
 <!---
